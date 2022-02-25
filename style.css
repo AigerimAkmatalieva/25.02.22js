@@ -1,0 +1,8 @@
+main {
+  display: flex;
+  flex: column;
+ margin: 10px;
+};
+main h1 {
+  display: flex;
+}
